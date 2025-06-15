@@ -18,7 +18,7 @@ A full-stack e-commerce application built using **Next.js**, **React**, **Tailwi
 
 ## 🧠 About Me
 
-Hi! I’m **Ibrahim**, a self-taught web developer focused on building scalable and modern applications. I'm working on mastering the **MERN stack** and building digital products that solve real problems. You can read more about me on the [About Page](https://your-site.com/about).
+Hi! I’m **Ibrahim**, a self-taught web developer focused on building scalable and modern applications. I'm working on mastering the **MERN stack** and building digital products that solve real problems. You can read more about me on the [About Page](https://eco-store-ochre.vercel.app/products).
 
 ---
 
@@ -34,3 +34,27 @@ Hi! I’m **Ibrahim**, a self-taught web developer focused on building scalable 
 
 ## 📁 Project Structure
 
+
+---
+
+## 🧪 Sample Projects Inside
+
+- 🎵 Music Lyrics App
+- 📋 Todo Manager with backend persistence
+- 📂 Admin Dashboard with custom prompts
+- 🛍️ This E-Commerce Store
+
+---
+
+## 🧾 Installation
+
+```bash
+# Clone the repo
+git clone https://github.com/ibhimwhar/ECO-Store.git
+cd ECO-Store
+
+# Install dependencies
+npm install
+
+# Run the dev server
+npm run dev
