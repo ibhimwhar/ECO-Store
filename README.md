@@ -18,7 +18,7 @@ A full-stack e-commerce application built using **Next.js**, **React**, **Tailwi
 
 ## 🧠 About Me
 
-Hi! I’m **Ibrahim**, a self-taught web developer focused on building scalable and modern applications. I'm working on mastering the **MERN stack** and building digital products that solve real problems. You can read more about me on the [About Page](https://eco-store-ochre.vercel.app/products).
+Hi! I’m **Ibrahim**, a self-taught web developer focused on building scalable and modern applications. I'm working on mastering the **MERN stack** and building digital products that solve real problems. You can read more about me on the [About Page](https://eco-store-ochre.vercel.app/about).
 
 ---
 
